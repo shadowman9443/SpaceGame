@@ -1,0 +1,17 @@
+/home/binate/SpaceGame/Temp/bin/Debug/UnityEngine.dll
+/home/binate/SpaceGame/Temp/bin/Debug/UnityEditor.dll
+/home/binate/SpaceGame/Temp/bin/Debug/UnityEngine.UI.dll
+/home/binate/SpaceGame/Temp/bin/Debug/UnityEngine.Networking.dll
+/home/binate/SpaceGame/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/home/binate/SpaceGame/Temp/bin/Debug/UnityEngine.Analytics.dll
+/home/binate/SpaceGame/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/home/binate/SpaceGame/Temp/bin/Debug/UnityEngine.VR.dll
+/home/binate/SpaceGame/Temp/bin/Debug/Unity.DataContract.dll
+/home/binate/SpaceGame/Temp/bin/Debug/Mono.Cecil.dll
+/home/binate/SpaceGame/Temp/bin/Debug/Unity.SerializationLogic.dll
+/home/binate/SpaceGame/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/home/binate/SpaceGame/Temp/bin/Debug/Unity.UNetWeaver.dll
+/home/binate/SpaceGame/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/home/binate/SpaceGame/Temp/bin/Debug/Unity.CecilTools.dll
+/home/binate/SpaceGame/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/home/binate/SpaceGame/Temp/bin/Debug/Mono.Cecil.Mdb.dll
